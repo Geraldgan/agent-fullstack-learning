@@ -64,6 +64,7 @@
 - [Java与前端一周速成教学版](./02-teaching/Java与前端一周速成教学版.md)
 - [Java与前端三个月系统教学版](./02-teaching/Java与前端三个月系统教学版.md)
 - [一周速成版-Agent全栈知识手册](./02-teaching/一周速成版-Agent全栈知识手册.md)
+- [iOS工程师到AI-Agent全栈工程师（Java-SpringBoot主线版）](./02-teaching/iOS工程师到AI-Agent全栈工程师（Java-SpringBoot主线版）.md)
 - [前端系统教学版（从HTML到React）](./02-teaching/前端系统教学版（从HTML到React）.md)
 - [Java后端系统教学版（从Java到SpringBoot）](./02-teaching/Java后端系统教学版（从Java到SpringBoot）.md)
 
