@@ -29,11 +29,12 @@
 
 ## 🧭 快速导航
 
-### 如果你时间很少，先看这 3 份
+### 如果你时间很少，先看这 4 份
 
 1. [Agent全栈工程师学习路线图](./01-roadmap/Agent全栈工程师学习路线图.md)
-2. [Java与前端一周速成教学版](./02-teaching/Java与前端一周速成教学版.md)
-3. [第一个Agent全栈项目实战方案](./01-roadmap/第一个Agent全栈项目实战方案.md)
+2. [iOS到AI-Agent全栈工程师学习手册（Java-SpringBoot版）](./02-teaching/iOS到AI-Agent全栈工程师学习手册（Java-SpringBoot版）.md)
+3. [后端与LLM基础精讲（Java-SpringBoot版）](./02-teaching/后端与LLM基础精讲（Java-SpringBoot版）.md)
+4. [第一个SpringBoot-Agent项目实战版](./01-roadmap/第一个SpringBoot-Agent项目实战版.md)
 
 ### 如果你准备系统学 3 个月，按这个顺序看
 
@@ -56,6 +57,7 @@
 - [Agent全栈工程师学习路线图](./01-roadmap/Agent全栈工程师学习路线图.md)
 - [3个月详细学习计划](./01-roadmap/3个月详细学习计划.md)
 - [第一个Agent全栈项目实战方案](./01-roadmap/第一个Agent全栈项目实战方案.md)
+- [第一个SpringBoot-Agent项目实战版](./01-roadmap/第一个SpringBoot-Agent项目实战版.md)
 - [Agent全栈工程师面试知识点](./01-roadmap/Agent全栈工程师面试知识点.md)
 
 ### 02-teaching
@@ -205,3 +207,6 @@
 
 从 iOS 开发转 Agent 全栈，不需要把自己当成零基础重新开始。  
 你更像是在原有工程能力上，补齐 Web + Java Backend + Agent Engineering 这三块拼图。
+�工程能力上，补齐 Web + Java Backend + Agent Engineering 这三块拼图。
+工程能力上，补齐 Web + Java Backend + Agent Engineering 这三块拼图。
+�工程能力上，补齐 Web + Java Backend + Agent Engineering 这三块拼图。
